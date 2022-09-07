@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Usage
 Thed use the is endpoint is verify simple.
 Autrhorization user auth/local/login
@@ -20,3 +21,6 @@ request body
 }
 
 token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImNvcndpbGdpQGdtYWlsLmNvbSIsImlhdCI6MTY2MTcwMjk2MCwiZXhwIjoxNjYxNzA2NTYwfQ.alrcYyP6QoN5WxRbPmXCuakxT7h7L03rGWMm_EV8LsM
+=======
+# proyecto1-backend
+>>>>>>> ff62eb97c02a385cf4b8b9e5b581e49f75059391
